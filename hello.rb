@@ -1,2 +1,2 @@
 name = "Emma"
-puts "hello," ++name++!"
+puts "hi there, how are you," ++name++!"
